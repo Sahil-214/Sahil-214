@@ -59,6 +59,15 @@
   <a href="https://github.com/Sahil-214"><img src="https://img.shields.io/badge/GitHub-Sahil--214-black" alt="GitHub"></a>
 </p>
 
+
+## GitHub Stats
+![Sahil-214's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil-214&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-214&layout=compact&theme=radical)
+
+Thanks for visiting my profile! 😊
+
 ---
 
 💡 *Always eager to learn, automate, and optimize workflows!* 🚀
